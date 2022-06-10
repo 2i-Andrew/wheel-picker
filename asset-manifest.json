@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/wheel-picker/static/css/main.ba981666.css",
-    "main.js": "/wheel-picker/static/js/main.0543dadd.js",
+    "main.css": "/wheel-picker/static/css/main.d42493db.css",
+    "main.js": "/wheel-picker/static/js/main.fa986297.js",
     "static/js/787.a59fcfcf.chunk.js": "/wheel-picker/static/js/787.a59fcfcf.chunk.js",
+    "static/media/take-me-to-a-wheel.gif": "/wheel-picker/static/media/take-me-to-a-wheel.c62c9914dba55723c167.gif",
     "static/media/logo.svg": "/wheel-picker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/wheel-picker/index.html",
-    "main.ba981666.css.map": "/wheel-picker/static/css/main.ba981666.css.map",
-    "main.0543dadd.js.map": "/wheel-picker/static/js/main.0543dadd.js.map",
+    "main.d42493db.css.map": "/wheel-picker/static/css/main.d42493db.css.map",
+    "main.fa986297.js.map": "/wheel-picker/static/js/main.fa986297.js.map",
     "787.a59fcfcf.chunk.js.map": "/wheel-picker/static/js/787.a59fcfcf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba981666.css",
-    "static/js/main.0543dadd.js"
+    "static/css/main.d42493db.css",
+    "static/js/main.fa986297.js"
   ]
 }
