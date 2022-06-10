@@ -25,13 +25,13 @@ function ArcadeButton(){
 
     if(!pressed){
         return(
-            <img src={button} onClick={() => onPress()}/>
+            <img id="arcade-button" src={button} onClick={() => onPress()}/>
         )
     }
 
     if(pressed){
         return(
-            <img src={buttonPressed} onClick={() => setPressed(!pressed)}/>
+            <img id="arcade-button" src={buttonPressed} onClick={() => setPressed(!pressed)}/>
         )
     }
 
